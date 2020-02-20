@@ -1,0 +1,13 @@
+*.class
+*.log
+*.iml
+
+target/
+
+\.idea/
+
+build/
+.DS_Store
+
+metastore_db/*
+venv*/*
